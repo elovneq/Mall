@@ -9,7 +9,3 @@ Let me know what you think!
 
 1-) python3 mall-app.py
 
-or
-
-2-) chmod +x mall-app.py
-    ./mall-app.py
