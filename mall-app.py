@@ -1,7 +1,7 @@
 # You have to have mall.py and import it to use this.
 # It's using sqlite3 for database.
 # Delevopled by eLovNeQ
-!#/usr/bin/python3
+#!/usr/bin/python3
 
 
 from mall import *
